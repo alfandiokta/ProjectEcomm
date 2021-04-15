@@ -1,2 +1,2 @@
 # ProjectEcomm
-Project E-Commerce dari Bangkuku
+Project E-Commerce
